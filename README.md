@@ -1,4 +1,4 @@
-## Olá, mundo. Sou o Pedro.👋
+## Hello, world. Im Pedro.👋
 
 - 🔭 Software Engineer.
 
