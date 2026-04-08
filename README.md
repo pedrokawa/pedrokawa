@@ -1,4 +1,4 @@
-<h1>Pedro Kawasaki 👋</h1>
+<h1>Pedro Kawasaki</h1>
 
 **Software Engineer · Full-Stack · Mobile · AI · Londrina, BR**
 
@@ -6,7 +6,7 @@ Desenvolvedor full-stack com foco em React Native, Node.js e automação. Constr
 
 ---
 
-### 🛠 Stack principal
+### 🛠 Stacks
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -24,7 +24,7 @@ Desenvolvedor full-stack com foco em React Native, Node.js e automação. Constr
 
 ---
 
-### 🚀 Projetos em destaque
+### 🚀 Projetos
 
 | Projeto | Descrição | Stack |
 |--------|-----------|-------|
