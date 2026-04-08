@@ -2,8 +2,6 @@
 
 **Software Engineer · Full-Stack · Mobile · AI · Londrina, BR**
 
-Desenvolvedor full-stack com foco em React Native, Node.js e automação. Construo aplicações do banco de dados à UI — mobile, web e integrações com IA. Atualmente desenvolvendo sistemas de gestão de frota e automação de relatórios de campo com visão computacional.
-
 ---
 
 ### 🛠 Stacks
