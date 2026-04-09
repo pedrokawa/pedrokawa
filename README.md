@@ -13,7 +13,6 @@
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
@@ -21,10 +20,8 @@
 
 | Projeto | Descrição | Stack |
 |--------|-----------|-------|
-| [Fleet Manager App](#) | App mobile de gestão de frota com registro de abastecimento, offline-first e exportação Excel | React Native · TypeScript · Prisma · PostgreSQL |
-| [Boletim Vision Extractor](#) | Web app com IA (Claude Vision) para extrair dados de fotos de relatórios de campo e gerar CSV | React · Node.js · Claude API |
-| [WhatsApp Bot + OCR](#) | Bot que processa imagens via WhatsApp e gera planilhas automaticamente — hospedado na OCI | Python · Oracle Cloud · Gemini API |
-
+| [Gestão de Frotas](#) | App mobile de gestão de frota com registro de abastecimento, offline-first e exportação Excel | React Native · TypeScript · Prisma · PostgreSQL |
+| [Extração de dados com IA](#) | Bot que processa imagens de relatórios recebidos por WhatsApp e realizaça a extração de dados com IA (Gemini Pro) e envia para CSV | JavaScript · Node.js · Gemini IA |
 
 ### 📫 Contato
 
